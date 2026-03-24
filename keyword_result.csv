@@ -1,0 +1,53 @@
+﻿sentiment,label,rank,keyword,count
+positive,긍정,1,빠른 배송,9
+positive,긍정,2,디자인,8
+positive,긍정,3,성능,7
+positive,긍정,4,큰 화면,7
+positive,긍정,5,가벼운 무게,7
+positive,긍정,6,친절한 응대,6
+positive,긍정,7,휴대성,5
+positive,긍정,8,빠른 속도,4
+positive,긍정,9,저렴한 가격,4
+positive,긍정,10,사은품,4
+positive,긍정,11,가벼움,3
+positive,긍정,12,가성비,3
+positive,긍정,13,좋은 가격,3
+positive,긍정,14,긴 배터리,3
+positive,긍정,15,꼼꼼한 포장,3
+positive,긍정,16,넓은 화면,2
+positive,긍정,17,빠른 성능,2
+positive,긍정,18,화질,1
+positive,긍정,19,할인 혜택,1
+positive,긍정,20,배터리 시간,1
+negative,부정,1,초기 불량,1
+negative,부정,2,사은품 누락,1
+negative,부정,3,배송 지연,1
+negative,부정,4,서비스 불만,1
+negative,부정,5,성능 저하,1
+negative,부정,6,발열,1
+negative,부정,7,소음,1
+negative,부정,8,윈도우 미설치,1
+negative,부정,9,드라이버 문제,1
+negative,부정,10,키보드 불량,1
+negative,부정,11,내구성 문제,1
+negative,부정,12,무게 불만,1
+negative,부정,13,가격 불만,1
+negative,부정,14,오배송,1
+neutral,중립,1,설치 어려움,1
+neutral,중립,2,발열,1
+neutral,중립,3,소음,1
+neutral,중립,4,가격,1
+neutral,중립,5,사은품,1
+neutral,중립,6,사용 전,1
+neutral,중립,7,기대감,1
+neutral,중립,8,배송,1
+neutral,중립,9,마감 불량,1
+neutral,중립,10,문제 없이 사용,1
+neutral,중립,11,가벼운 무게,1
+neutral,중립,12,속도,1
+neutral,중립,13,포트,1
+neutral,중립,14,그럭저럭,1
+neutral,중립,15,초기 불량,1
+neutral,중립,16,디자인,1
+neutral,중립,17,배터리,1
+neutral,중립,18,구매 목적,1
