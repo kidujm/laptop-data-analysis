@@ -243,7 +243,7 @@ laptop-data-analysis/
 ## 📎 더 자세한 과정이 궁금하다면
 
 > 📌 **전체 분석 과정·중간 가설·시각화 자료는 포트폴리오 PDF와 Notion에서 상세히 확인하실 수 있습니다.**
-> 📄 **포트폴리오 PDF**: `docs/LG그램_포트폴리오.pdf` (저장소 내 경로)
+> 📄 **포트폴리오 PDF**: `docs/산대특_로그인_SIMPLY LIGHT, ALWAYS GRAM.pdf` (저장소 내 경로)
 > 🔗 **Notion 링크**: [프로젝트 상세 페이지 바로가기](https://www.notion.so/334b1279cdd980118e4df88efda9d377?pvs=97#334b1279cdd9805fa584d600a178982b)
 
 ---
