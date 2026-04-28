@@ -216,7 +216,14 @@ laptop-data-analysis/
 │   └── LG그램_포트폴리오.pptx
 └── README.md
 ```
+---
 
+## 📂 전체 프로젝트 자료 (Google Drive)
+
+> 본 저장소에는 본인 담당 코드만 포함되어 있습니다.
+> 팀 전체 코드·데이터·분석 자료는 아래 링크에서 확인 가능합니다.
+
+[📁 Google Drive — 전체 프로젝트 폴더 바로가기](https://drive.google.com/drive/folders/1IrX0GAI687dKIAS2tcqcaZaJ-33wbuH9?usp=sharing)
 ---
 
 ## 9. ⭐ 프로젝트 차별점 (Why This Project Stands Out)
